@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\VotingSystem\VotingSys\bin\Debug\netcoreapp3.1\VotingSys.exe
+C:\Users\User\source\repos\VotingSystem\VotingSys\bin\Debug\netcoreapp3.1\VotingSys.deps.json
+C:\Users\User\source\repos\VotingSystem\VotingSys\bin\Debug\netcoreapp3.1\VotingSys.runtimeconfig.json
+C:\Users\User\source\repos\VotingSystem\VotingSys\bin\Debug\netcoreapp3.1\VotingSys.runtimeconfig.dev.json
+C:\Users\User\source\repos\VotingSystem\VotingSys\bin\Debug\netcoreapp3.1\VotingSys.dll
+C:\Users\User\source\repos\VotingSystem\VotingSys\bin\Debug\netcoreapp3.1\VotingSys.pdb
+C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.AssemblyInfo.cs
+C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.dll
+C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.pdb
