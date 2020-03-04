@@ -8,3 +8,4 @@ C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\Voting
 C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.AssemblyInfo.cs
 C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.dll
 C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.pdb
+C:\Users\User\source\repos\VotingSystem\VotingSys\obj\Debug\netcoreapp3.1\VotingSys.csprojAssemblyReference.cache
